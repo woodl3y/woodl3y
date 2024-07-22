@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 <a href="https://app.daily.dev/woodl3y"><img src="https://github.com/woodl3y/woodl3y/blob/main/devcard.svg" width="400" alt="Brad's Dev Card"/></a>
+-->
